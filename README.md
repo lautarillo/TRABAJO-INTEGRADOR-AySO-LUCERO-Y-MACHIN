@@ -39,5 +39,5 @@ Antes de ejecutar este programa, asegurarse de contar con las siguientes herrami
 ```bash
 python3 calculadora.py
 
-
-Link de Google Drive al video: https://drive.google.com/file/d/17S5D6gYnbmGxpgDTMV0Z-dBkhFoqom5t/view?usp=drive_link
+🎥 Video del proyecto:
+🔗 Ver video en Google Drive
