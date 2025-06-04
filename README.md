@@ -37,7 +37,7 @@ Antes de ejecutar este programa, asegurarse de contar con las siguientes herrami
 3. Ejecuta el script con el siguiente comando:
 
 ```bash
-python3 operaciones.py
+python3 calculadora.py
 
 
-Link de Google Drive: https://drive.google.com/file/d/17S5D6gYnbmGxpgDTMV0Z-dBkhFoqom5t/view?usp=drive_link
+Link de Google Drive al video: https://drive.google.com/file/d/17S5D6gYnbmGxpgDTMV0Z-dBkhFoqom5t/view?usp=drive_link
