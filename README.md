@@ -30,6 +30,12 @@ Antes de ejecutar este programa, asegurarse de contar con las siguientes herrami
 
 ---
 
+## 🎥 Video del proyecto
+
+🔗 [Ver video en Google Drive](https://drive.google.com/file/d/17S5D6gYnbmGxpgDTMV0Z-dBkhFoqom5t/view?usp=drive_link)
+
+---
+
 ## 🛠️ Cómo ejecutar
 
 1. Abre Visual Studio Code dentro de la máquina virtual.
@@ -38,6 +44,3 @@ Antes de ejecutar este programa, asegurarse de contar con las siguientes herrami
 
 ```bash
 python3 calculadora.py
-
-🎥 Video del proyecto:
-🔗 Ver video en Google Drive
